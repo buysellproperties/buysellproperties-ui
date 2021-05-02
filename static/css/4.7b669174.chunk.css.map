@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/logged_out/components/home/FeatureSection.scss"],"names":[],"mappings":"AAAA,WACE,iBAAkB,CAClB,gBAAiB,CACjB,gBAAiB,CACjB,eAAgB","file":"4.7b669174.chunk.css","sourcesContent":[".Container {\r\n  position: relative;\r\n  min-height: 350px;\r\n  max-height: 800px;\r\n  overflow: hidden;\r\n}\r\n"]}
